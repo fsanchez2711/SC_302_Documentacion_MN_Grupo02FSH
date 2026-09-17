@@ -1,1 +1,4 @@
-# SC_302_Documentacion_MN_Grupo02FSH
+# SC\_302\_Documentacion\_MN\_Grupo02FSH
+
+Esta es mi primera practica
+
